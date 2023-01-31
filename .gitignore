@@ -41,3 +41,7 @@ vignettes/*.pdf
 
 github.R
 
+*.Rproj
+
+
+
